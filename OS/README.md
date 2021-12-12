@@ -15,12 +15,12 @@
 
 ## 2장
 * [Windows에서의 유니코드(UNICODE)](https://github.com/ejxzhn22/TIL/tree/main/OS#windows%EC%97%90%EC%84%9C%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9Cunicode)
- * 문자셋의 종류와 특성
+  * 문자셋의 종류와 특성
 
 ## 5장
 * [프로세스와 스케줄러의 이해](https://github.com/ejxzhn22/TIL/tree/main/OS#%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4)
- * 프로세스
- * 프로세스의 범위
+  * 프로세스
+  * 프로세스의 범위
 
 <br>
 
