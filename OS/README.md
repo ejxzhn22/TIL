@@ -1,7 +1,7 @@
 # [뇌를 자극하는 윈도우즈 시스템 프로그래밍 - 인프런](https://www.inflearn.com/course/%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 
 ## 1장 
-* [시스템 프로그래밍의 이해와 접근/컴퓨터 하드웨어의 구성/CPU에 대한 이해](#https://github.com/ejxzhn22/TIL/tree/main/OS#%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%91%EA%B7%BC-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%9D%98-%EA%B5%AC%EC%84%B1cpu%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
+* [시스템 프로그래밍의 이해와 접근/컴퓨터 하드웨어의 구성/CPU에 대한 이해](https://github.com/ejxzhn22/TIL/tree/main/OS#%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-%EC%A0%91%EA%B7%BC-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%9D%98-%EA%B5%AC%EC%84%B1cpu%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
   * 시스템(컴퓨터 시스템)의 범위
   * 시스템 프로그래밍
   * 응용 소프트웨어 개발과의 차이점
@@ -9,17 +9,18 @@
   * 컴퓨터 하드웨어 구성
   * CPU에 대한 이해
   * 클럭 신호(Clock Pulse)
-* [프로그램의 실행과정/하드웨어 구성의 재접근](#https://github.com/ejxzhn22/TIL/tree/main/OS#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EC%8B%A4%ED%96%89%EA%B3%BC%EC%A0%95-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EA%B5%AC%EC%84%B1%EC%9D%98-%EC%9E%AC%EC%A0%91%EA%B7%BC) 
+* [프로그램의 실행과정/하드웨어 구성의 재접근](https://github.com/ejxzhn22/TIL/tree/main/OS#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%EC%8B%A4%ED%96%89%EA%B3%BC%EC%A0%95-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EA%B5%AC%EC%84%B1%EC%9D%98-%EC%9E%AC%EC%A0%91%EA%B7%BC) 
   * 프로그램 실행 과정
   * Stored Program Concept
 
 ## 2장
-* [Windows에서의 유니코드(UNICODE)](#)
+* [Windows에서의 유니코드(UNICODE)](https://github.com/ejxzhn22/TIL/tree/main/OS#windows%EC%97%90%EC%84%9C%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9Cunicode)
  * 문자셋의 종류와 특성
 
 ## 5장
-* [프로세스와 스케줄러의 이해](#)
- * 프로세스의 
+* [프로세스와 스케줄러의 이해](https://github.com/ejxzhn22/TIL/tree/main/OS#%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC%EC%9D%98-%EC%9D%B4%ED%95%B4)
+ * 프로세스
+ * 프로세스의 범위
 
 <br>
 
