@@ -35,11 +35,11 @@
   * 선점형 OS와 비선점형 OS
 
 ## 11장
-* [프로세스 vs. 쓰레드]()
+* [프로세스 vs. 쓰레드](https://github.com/ejxzhn22/TIL/blob/main/OS/README.md#%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-vs-%EC%93%B0%EB%A0%88%EB%93%9C)
   * 쓰레드의 이해
 
 ## 15장
-* [쓰레드 풀에 대한 이해]()
+* [쓰레드 풀에 대한 이해](https://github.com/ejxzhn22/TIL/blob/main/OS/README.md#%EC%93%B0%EB%A0%88%EB%93%9C-%ED%92%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4)
   * 쓰레드 
 <br>
 
